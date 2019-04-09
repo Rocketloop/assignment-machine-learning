@@ -11,7 +11,7 @@ The data set can be obtained as a CSV file directly from NYCOpenData at https://
 The first task is concerned with profiling the data at hand. The focus should be put onto assessing the data quality and understanding the data set in depth, especially in respect to any biases inherent in the data and the distribution of values.
 
 
-## Prediction Model (2h-)
+## Prediction Model (2-4h)
 
 Now that we have acquired a deeper understanding of the data set, we want to train a prediction model on the data that is able to predict the number of dispatched vehicles for a randomly given dispatch record. You will need to clean and preprocess the data set in order to be able to use it as training data for a prediction model. You are free to choose a model (or multiple models) that you think is well-suited for the task and will deliver state-of-the-art prediction performance. Please make sure to include an evaluation and validation of your trained model(s).
 
